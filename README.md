@@ -13,6 +13,7 @@
 ## Where do we go from here?
 * https://docs.djangoproject.com/en/2.2/intro/whatsnext/
 * https://docs.djangoproject.com/en/2.2/intro/reusable-apps/
+* https://docs.djangoproject.com/en/2.2/contents/
 
 ## setup
 
