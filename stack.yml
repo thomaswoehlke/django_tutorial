@@ -9,9 +9,9 @@ services:
     ports:
       - 5432:5432
     environment:
-      POSTGRES_PASSWORD: javapwd
-      POSTGRES_USER: java
-      POSTGRES_DB: petclinic
+      POSTGRES_PASSWORD: djangopwd
+      POSTGRES_USER: django
+      POSTGRES_DB: django_tutorial
 
   adminer:
     image: adminer:4.7.4
