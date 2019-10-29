@@ -1,5 +1,10 @@
 # django_tutorial
 
+## Tutorial
+
+* https://docs.djangoproject.com/en/2.2/intro/tutorial01/
+
+## setup
 
 * https://medium.com/@diwassharma/starting-a-python-django-project-on-mac-os-x-c089165cf010
 
