@@ -19,3 +19,6 @@ pip install Django==2.x.x
 django-admin.py startproject project1
 python manage.py runserver
 ```
+
+## setup IDE 
+* https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-django-project.html
