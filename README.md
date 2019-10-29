@@ -6,6 +6,13 @@
 * https://docs.djangoproject.com/en/2.2/intro/tutorial02/
 * https://docs.djangoproject.com/en/2.2/intro/tutorial03/
 * https://docs.djangoproject.com/en/2.2/intro/tutorial04/
+* https://docs.djangoproject.com/en/2.2/intro/tutorial05/
+* https://docs.djangoproject.com/en/2.2/intro/tutorial06/
+* https://docs.djangoproject.com/en/2.2/intro/tutorial07/
+
+## Where do we go from here?
+* https://docs.djangoproject.com/en/2.2/intro/whatsnext/
+* https://docs.djangoproject.com/en/2.2/intro/reusable-apps/
 
 ## setup
 
