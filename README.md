@@ -3,6 +3,7 @@
 ## Tutorial
 
 * https://docs.djangoproject.com/en/2.2/intro/tutorial01/
+* https://docs.djangoproject.com/en/2.2/intro/tutorial02/
 
 ## setup
 
@@ -28,7 +29,11 @@ python manage.py startapp polls
 python manage.py runserver
 ```
 
-### setup project after checkout
+### setup project each time
+```
+source venv/bin/activate
+python manage.py runserver
+```
 
 
 ## setup IDE 

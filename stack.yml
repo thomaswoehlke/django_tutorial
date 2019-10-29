@@ -12,6 +12,20 @@ services:
       POSTGRES_PASSWORD: djangopwd
       POSTGRES_USER: django
       POSTGRES_DB: django_tutorial
+      CHARSET: UTF8
+      PGPORT: 5432
+
+  dbtest:
+    image: postgres:11.5
+    restart: always
+    ports:
+      - 5464:5464
+    environment:
+      POSTGRES_PASSWORD: djangopwd
+      POSTGRES_USER: django
+      POSTGRES_DB: django_tutorial_test
+      CHARSET: UTF8
+      PGPORT: 5464
 
   adminer:
     image: adminer:4.7.4
